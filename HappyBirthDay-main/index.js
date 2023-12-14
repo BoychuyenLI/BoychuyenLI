@@ -1,5 +1,5 @@
-const contentLetterSrart_actived = "Hãy nói gì đó ở đây trước khi người ấy mở bức thư nhé." //Lời mở đầu cho bức thư
-const mainContentLetter = "Gửi lời nhắn nhủ đến người bạn bạn yêu thương." //Nội dung của bức thư
+const contentLetterSrart_actived = "Gửi tới bbi Phương Linh cụa tui " //Lời mở đầu cho bức thư
+const mainContentLetter = "Hôm nay ngày 15/12/2023 em bé của tui chính thức tròn 18 tuổi.Chúc cho em bé Phương Linh sẽ đạt được nhiều may mắn thuận lợi trong công việc đạt được thành tựu trong năm 2024 và các năm tiếp theo nữa, luôn luôn xinh đẹp,nhan sắc thăng hoa luôn giữ được sự đáng yêu nhía hoa hậu của đời tớ.Chúc cho bé đời đời hạnh phúc, tiền tiêu khum hết (do tui dành tặng và năng lực của bé).Sau tất cả chúc cho cục tưng update tủi 18 rực rỡ như những điều bé mong muốn nhen :33. Anh iu em nhiều lắm" //Nội dung của bức thư
 
 // Gắn 1 đường link ảnh bất kì
 let imgStart = document.querySelector(".myAI"); //Hình ảnh xuất hiện trong lời mở đầu của bức thư

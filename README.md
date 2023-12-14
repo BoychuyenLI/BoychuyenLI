@@ -1,16 +1,43 @@
-### Hi there 👋
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css">
+<!-- Google Fonts -->
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&display=swap" rel="stylesheet">
 
-<!--
-**BoychuyenLI/BoychuyenLI** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  <link rel="stylesheet" href="./main.css">
+  <title>Some</title>
+</head>
+<body>
+  <div class="startForm">
+    <div class="startLetter">
+      <div class="contentLetter"></div>
+      <img class="myAI" src="" alt="">
+      <div class="sticker"></div>
+      <button class="recieve"><i class="fa-solid fa-gift"></i></button>
+    </div>
+  </div>
 
-Here are some ideas to get you started:
+  <div class="backgroundParty">
+    <img class="balloon1 balloon" src="./img/PNGkhothietke.net-02776.png" alt="">
+    <img class="balloon2 balloon" src="./img/PNGkhothietke.net-02776.png" alt="">
+    <img class="bannerParty" src="./img/makeupspa-kit-theme-happy-birthday-bunting-paper-banner-party-supply-261454.png" alt="">
+    <div class="letterForm">
+      <input type="checkbox" id="mess">
+      <div class="content">
+        <div class="mainContent"></div>
+        <div class="img1"><img class="img" src="" alt=""></div>
+      </div>
+      <label class="designBox" for="mess"></label>
+    </div>
+  </div>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+  <script src="./index.js"></script>
+</body>
+</html>
 -->
